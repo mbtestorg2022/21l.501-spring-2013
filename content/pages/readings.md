@@ -21,31 +21,255 @@ Readings
 
 \[Butler\] = Butler, Octavia. _Kindred_. Beacon Press, 2004. ISBN: 9780807083697.
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| {{< td-colspan 2 >}}**Strange Places**{{< /td-colspan >}} ||
-| 2 | \[Butler\] "Prologue," "The River," "The Fire," and "The Fall" |
-| 3 |  {{< br >}}{{< br >}} \[Butler\] "The Fight," "The Storm," "The Rope," and "Epilogue" {{< br >}}{{< br >}} Annotation Studio Workshop {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} \[Melville\] "Etymology," "Extracts," and Chapters 1-9 {{< br >}}{{< br >}} Locast Mapping Workshop {{< br >}}{{< br >}}  |
-| 5 | \[Melville\] Chapters 10–28 |
-| 6 | \[Melville\] Chapters 29–46 |
-| 7 | \[Melville\] Chapters 47–67 |
-| 8 | \[Melville\] Chapters 68–88 |
-| 9 | \[Melville\] Chapters 89–113 |
-| 10 | \[Melville\] Chapter 113 and Epilogue |
-| {{< td-colspan 2 >}}**Strange Families**{{< /td-colspan >}} ||
-| 12 | \[Jacobs\] Chapters 1–18 |
-| 13 | \[Jacobs\] Chapters 19–41 |
-| 14 | \[Twain\] Chapters 1–11 |
-| 15 | \[Twain\] Chapters 12–21 and Conclusion |
-| 16 | \[Wharton\] Chapters 1–13 |
-| 17 | \[Wharton\] Chapters 14–23 |
-| 18 | \[Wharton\] Chapters 24–34 |
-| {{< td-colspan 2 >}}**Strange Histories**{{< /td-colspan >}} ||
-| 20 | \[Faulkner\] Chapters 1–4 |
-| 21 | \[Faulkner\] Chapters 5–7 |
-| 22 | \[Faulkner\] Chapters 8–9 |
-| 23 | \[Morrison\] Chapters 1–4 |
-| 24 | \[Morrison\] Chapters 5–7 |
-| 25 | \[Morrison\] Chapters 8–13
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Strange Places**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+\[Butler\] "Prologue," "The River," "The Fire," and "The Fall"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Butler\] "The Fight," "The Storm," "The Rope," and "Epilogue"
+
+Annotation Studio Workshop
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Melville\] "Etymology," "Extracts," and Chapters 1-9
+
+Locast Mapping Workshop
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+\[Melville\] Chapters 10–28
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+\[Melville\] Chapters 29–46
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+\[Melville\] Chapters 47–67
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+\[Melville\] Chapters 68–88
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+\[Melville\] Chapters 89–113
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+\[Melville\] Chapter 113 and Epilogue
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Strange Families**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+\[Jacobs\] Chapters 1–18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+\[Jacobs\] Chapters 19–41
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+\[Twain\] Chapters 1–11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+\[Twain\] Chapters 12–21 and Conclusion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+\[Wharton\] Chapters 1–13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+\[Wharton\] Chapters 14–23
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+\[Wharton\] Chapters 24–34
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Strange Histories**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+\[Faulkner\] Chapters 1–4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+\[Faulkner\] Chapters 5–7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+\[Faulkner\] Chapters 8–9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+\[Morrison\] Chapters 1–4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+\[Morrison\] Chapters 5–7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+\[Morrison\] Chapters 8–13
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

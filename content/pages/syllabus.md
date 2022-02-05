@@ -40,37 +40,366 @@ Note: Although it is best to have the classroom text, in most cases you may use 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**Strange Places**{{< /td-colspan >}} |||
-| 2 | \[Butler\] "Prologue," "The River," "The Fire," and "The Fall" | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} \[Butler\] "The Fight," "The Storm," "The Rope," and "Epilogue" {{< br >}}{{< br >}} Annotation Studio Workshop {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} \[Melville\] "Etymology," "Extracts," and Chapters 1–9 {{< br >}}{{< br >}} Locast Mapping Workshop {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | \[Melville\] Chapters 10–28 | &nbsp; |
-| 6 | \[Melville\] Chapters 29–46 | &nbsp; |
-| 7 | \[Melville\] Chapters 47–67 | &nbsp; |
-| 8 | \[Melville\] Chapters 68–88 | &nbsp; |
-| 9 | \[Melville\] Chapters 89–113 | &nbsp; |
-| 10 | \[Melville\] Chapter 113 and Epilogue | &nbsp; |
-| 11 | Presentations in class: Maps | Essay 1 due at midnight online. |
-| {{< td-colspan 3 >}}**Strange Families**{{< /td-colspan >}} |||
-| 12 | \[Jacobs\] Chapters 1–18 | &nbsp; |
-| 13 | \[Jacobs\] Chapters 19–41 | &nbsp; |
-| 14 | \[Twain\] Chapters 1–11 | &nbsp; |
-| 15 | \[Twain\] Chapters 12–21 and Conclusion | &nbsp; |
-| 16 | \[Wharton\] Chapters 1–13 | &nbsp; |
-| 17 | \[Wharton\] Chapters 14–23 | &nbsp; |
-| 18 | \[Wharton\] Chapters 24–34 | &nbsp; |
-| 19 | Presentations in class: Genealogies | Essay 2 due at midnight online. |
-| {{< td-colspan 3 >}}**Strange Histories**{{< /td-colspan >}} |||
-| 20 | \[Faulkner\] Chapters 1–4 | &nbsp; |
-| 21 | \[Faulkner\] Chapters 5–7 | &nbsp; |
-| 22 | \[Faulkner\] Chapters 8–9 | &nbsp; |
-| 23 | \[Morrison\] Chapters 1–4 | &nbsp; |
-| 24 | \[Morrison\] Chapters 5–7 | &nbsp; |
-| 25 | \[Morrison\] Chapters 8–13 | &nbsp; |
-| 26 | Presentations in class: Timelines | Essay 3 due at midnight online. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Strange Places**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+\[Butler\] "Prologue," "The River," "The Fire," and "The Fall"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Butler\] "The Fight," "The Storm," "The Rope," and "Epilogue"
+
+Annotation Studio Workshop
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Melville\] "Etymology," "Extracts," and Chapters 1–9
+
+Locast Mapping Workshop
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+\[Melville\] Chapters 10–28
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+\[Melville\] Chapters 29–46
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+\[Melville\] Chapters 47–67
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+\[Melville\] Chapters 68–88
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+\[Melville\] Chapters 89–113
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+\[Melville\] Chapter 113 and Epilogue
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations in class: Maps
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due at midnight online.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Strange Families**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+\[Jacobs\] Chapters 1–18
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+\[Jacobs\] Chapters 19–41
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+\[Twain\] Chapters 1–11
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+\[Twain\] Chapters 12–21 and Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+\[Wharton\] Chapters 1–13
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+\[Wharton\] Chapters 14–23
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+\[Wharton\] Chapters 24–34
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations in class: Genealogies
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due at midnight online.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Strange Histories**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+\[Faulkner\] Chapters 1–4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+\[Faulkner\] Chapters 5–7
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+\[Faulkner\] Chapters 8–9
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+\[Morrison\] Chapters 1–4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+\[Morrison\] Chapters 5–7
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+\[Morrison\] Chapters 8–13
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations in class: Timelines
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 due at midnight online.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Important Things to Know
 ------------------------
@@ -91,12 +420,57 @@ Grading
 
 This course consists of both an oral component, which accounts for 25% of the grade, and a written component, which counts for 75%.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| In-class presentation | 15% |
-| Class attendance and participation | 10% |
-| 3 5-page essays | 60% |
-| In-class writing | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 5-page essays
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class writing
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Writing Assignments
 -------------------

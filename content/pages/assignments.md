@@ -44,11 +44,93 @@ In-Class Writing Assignments
 
 Students had twenty minutes to complete the following in-class writing assignments.
 
-| SES # | TITLES | TOPICS |
-| --- | --- | --- |
-| 3 | Octavia Butler's _Kindred_ | Each time Dana returns she has faced a deadly danger. What makes the final episode similar to or different from the others? What details of her final wound does Butler use to show the significance of this event? Pay attention to language and quote specifics. |
-| 10 | Herman Melville's _Moby-Dick_ | Read the section that begins "But far beneath this wondrous world" (p. 345) and ends "I still bathe me in eternal mildness of joy" (p. 346) in "The Grand Armada." Write a response to what seems to you most striking in this section: an image, the development of an idea, a particular pattern or use of language, a shift in voice, an example of irony. Quote specifics from the passage and discuss their implications. |
-| 13 | Harriet Jacobs' _Incidents in the Life of a Slave Girl_ | In Chapter XXIX, "Preparations for Escape," Harriet Jacobs meets secretly with her son almost as she did with Ellen in Chapter XXVII "New Destination for the Children." She is surprised to learn that Benny has known all along about her imprisonment in the attic, and she attributes his "prudence" to his slave status: "slaves, being surrounded by mysteries, deceptions, and dangers, early learn to be suspicious and watchful, and prematurely cautious and cunning." Does this statement reflect her experience as well? If so, how does it explain her role as narrator of her own story? If not, how would you characterize her responses to danger? Can one be a slave and avoid the atmosphere of suspicion and cunning? Do these traits lend themselves to being a writer? Be specific and cite details from the story. |
-| 15 | Mark Twain's _Pudd'nhead Wilson_ | Please read the passage in the courtroom scene that begins, "I beg the indulgence of the court while I make a few remarks," and ends "(The audience were interested once more.)" Note the language with which Wilson describes fingerprints with multiple references to writing ("marks," "signature," "autograph," "illegible," and so on). Wilson's metaphor seems to suggest the permanence of writing. Yet this writing takes place on skin, something that Twain seems at pains to show is changeable, malleable and impermanent. Explore the implications of this paradox for a theme or character in the book. |
-| 18 | Edith Wharton's _The Age of Innocence_ | Read the passage in Chapter XXXIII ("Archer, who seemed to be assisting at the scene in a state of odd imponderability…affectionate leave of her friend and cousin") in which Archer experiences a "vast flash" of revelation. Often such moments serve in literary texts to dramatize the act of recognition, or anagnorisis. What is Archer recognizing and how does Wharton make the depth and irony of his recognition clear? |
-| 22 | William Faulkner's _Absalom! Absalom!_ | "Why do you hate the South?" What inspires Shreve's question? What is the effect of placing it at the end of the novel? What explains Quentin's answer?
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TITLES
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Octavia Butler's _Kindred_
+{{< tdclose >}}
+{{< tdopen >}}
+Each time Dana returns she has faced a deadly danger. What makes the final episode similar to or different from the others? What details of her final wound does Butler use to show the significance of this event? Pay attention to language and quote specifics.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Herman Melville's _Moby-Dick_
+{{< tdclose >}}
+{{< tdopen >}}
+Read the section that begins "But far beneath this wondrous world" (p. 345) and ends "I still bathe me in eternal mildness of joy" (p. 346) in "The Grand Armada." Write a response to what seems to you most striking in this section: an image, the development of an idea, a particular pattern or use of language, a shift in voice, an example of irony. Quote specifics from the passage and discuss their implications.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Harriet Jacobs' _Incidents in the Life of a Slave Girl_
+{{< tdclose >}}
+{{< tdopen >}}
+In Chapter XXIX, "Preparations for Escape," Harriet Jacobs meets secretly with her son almost as she did with Ellen in Chapter XXVII "New Destination for the Children." She is surprised to learn that Benny has known all along about her imprisonment in the attic, and she attributes his "prudence" to his slave status: "slaves, being surrounded by mysteries, deceptions, and dangers, early learn to be suspicious and watchful, and prematurely cautious and cunning." Does this statement reflect her experience as well? If so, how does it explain her role as narrator of her own story? If not, how would you characterize her responses to danger? Can one be a slave and avoid the atmosphere of suspicion and cunning? Do these traits lend themselves to being a writer? Be specific and cite details from the story.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Mark Twain's _Pudd'nhead Wilson_
+{{< tdclose >}}
+{{< tdopen >}}
+Please read the passage in the courtroom scene that begins, "I beg the indulgence of the court while I make a few remarks," and ends "(The audience were interested once more.)" Note the language with which Wilson describes fingerprints with multiple references to writing ("marks," "signature," "autograph," "illegible," and so on). Wilson's metaphor seems to suggest the permanence of writing. Yet this writing takes place on skin, something that Twain seems at pains to show is changeable, malleable and impermanent. Explore the implications of this paradox for a theme or character in the book.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Edith Wharton's _The Age of Innocence_
+{{< tdclose >}}
+{{< tdopen >}}
+Read the passage in Chapter XXXIII ("Archer, who seemed to be assisting at the scene in a state of odd imponderability…affectionate leave of her friend and cousin") in which Archer experiences a "vast flash" of revelation. Often such moments serve in literary texts to dramatize the act of recognition, or anagnorisis. What is Archer recognizing and how does Wharton make the depth and irony of his recognition clear?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+William Faulkner's _Absalom! Absalom!_
+{{< tdclose >}}
+{{< tdopen >}}
+"Why do you hate the South?" What inspires Shreve's question? What is the effect of placing it at the end of the novel? What explains Quentin's answer?
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
