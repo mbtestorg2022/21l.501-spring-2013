@@ -47,7 +47,7 @@ HASS-H ![](/images/educator/icon-question-hass-h.png)
 
 ### Offered
 
-A version of this course, focusing on the American novel, is taught one semester per academic year. The focus of the course changes each semester. Examples of past focus topics include [ghosts](/courses/21l-501-the-american-novel-fall-2006/), wealth and poverty, and the American revolution.
+A version of this course, focusing on the American novel, is taught one semester per academic year. The focus of the course changes each semester. Examples of past focus topics include [ghosts](/courses/21l-501-the-american-novel-fall-2006), wealth and poverty, and the American revolution.
 
 {{< anchor "classroom" >}}{{< /anchor >}}
 
